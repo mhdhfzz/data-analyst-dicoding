@@ -31,7 +31,7 @@ with st.sidebar:
     with col1:
         st.write(' ')
     with col2:
-        st.image("https://github.com/mhdhfzz/data-analyst-dicoding/blob/main/dashboard/logo.png"
+        st.image("https://raw.githubusercontent.com/mhdhfzz/data-analyst-dicoding/main/dashboard/logo.png"
                  , width=100)
     with col3:
         st.write(' ')
