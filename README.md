@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 ```
 cd data-analyst-dicoding/dashboard
-streamlit run app.py
+streamlit run dashboard.py
 ```
 Access the dashboard in your web browser at `http://localhost:8501`.
 
